@@ -1,3 +1,3 @@
 #define CAN_BUFFER_SIZE 256
 
-// Other code remains unchanged...
+// Existing code remains unchanged
