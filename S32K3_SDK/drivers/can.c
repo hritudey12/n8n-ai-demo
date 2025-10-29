@@ -1,7 +1,14 @@
 #define CAN_BUFFER_SIZE 256
 
-// Existing code remains unchanged...
+// Existing code remains unchanged
+void CAN_Init() {
+    // Initialization code
+}
 
-void some_function() {
-    // Function implementation...
+void CAN_SendMessage() {
+    // Sending logic
+}
+
+void CAN_ReceiveMessage() {
+    // Receiving logic
 }
